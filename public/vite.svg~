@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#001219;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#005f73;stop-opacity:1" />
+        </linearGradient>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#0a9396;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#94d2bd;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect width="100" height="100" fill="url(#grad1)" />
+    <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="40" fill="url(#grad2)" font-family="Arial" font-weight="bold">⚡</text>
+    <text x="50%" y="70%" text-anchor="middle" dy=".3em" font-size="40" fill="#e9d8a6" font-family="Arial" font-weight="bold">𝓡</text>
+</svg>
